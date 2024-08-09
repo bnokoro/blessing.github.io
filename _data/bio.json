@@ -1,71 +1,79 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Blessing Okoro",
+    "label": "Web Developer",
+    "picture": "https://github.com/bnokoro.png",
+    "email": "blessinng@gmail.com",
+    "phone": "+234-708-2411-934",
+    "website": "https://bnokoro.github.io",
+    "summary": "A continuous learner, readily adapting to emerging technologies and a commitment to creating innovative and high-performing web experiences. A collaborative team player with excellent problem-solving and communication skills, dedicated to delivering results that exceed expectations.",
+    "location": { "address": "", "postalCode": "101401", "city": "Lagos", "countryCode": "NIGERIA", "region": "West" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "blessing", "url": "http://github.com/bnokoro" },
+      { "network": "linkedin", "username": "Blessing Okoro", "url": "https://linkedin.com/in/bnokoro" },
+      { "network": "twitter", "username": "blessing", "url": "http://twitter.com/changeme" },
+      { "network": "instagram", "username": "blessing", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Artificial Intelligence" },
+    { "name": "Cloud Computing" },
+    { "name": "Journaling" },
+    { "name": "Travelling" },
+    { "name": "Cooking" }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Technical Skills",
+      "keywords": [ "PHP", "Python", "Javascript", "Laravel", "Css", "CMS", "Salesforce Administration", "MySql" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "Windows" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "University of Benin, Benin City",
+      "area": "Chemical Engineering",
+      "studyType": "B.ENG",
+      "startDate": "2009-04-13",
+      "endDate": "2014-11-28",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
+      "company": "Essenza Nigeria Ltd",
       "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "website": "essenza.ng",
+      "startDate": "2020-08-10",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Brand representative for international luxury brands",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain, update, and oversee the website",
+        "Drive business innovations, design and build solutions that support it",
+        "Automate monotonous business processes and work out automated solutions that increase efficiency and effectiveness, which lowers cost of operation and production.",
+        "Successfully implement responsive web design principles, ensuring optimal user experience across various devices, leading to a 30% increase in mobile traffic and improved user engagement",
+        "Lead the integration of an e-commerce platform, enhancing online sales functionality and contributing to a 25% increase in online revenue within the first business year",
+        "Implement A/B testing methodologies to analyze user behavior and preferences, leading to data-driven optimizations that increased conversion rates by 15%.",
+        "Integrate third-party APIs, enhancing the website's functionality and providing users with seamless access to additional features and services."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Mactavis Technologies",
+      "position": "Intern",
+      "website": "https://mactavis.com/",
+      "startDate": "2019-09-01",
+      "endDate": "2020-06-15",
+      "summary": "Specialize in creating all things web, web application design and development, content curation and production, mobile app development, social media management, search engine optimization, and internet marketing.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Troubleshoot software issues on every project worked on",
+        "Monitor and maintain website projects, making sure it is squeaky clean, portraying your brand with the highest level of aesthetics and 'digital ergonomics",
+        "Collaborated with in senior web developers to build applications for (RisingTide Africa, Sifuse, Laspark) using php and laravel.",
+        "Supported the redesigning of underperforming client website, proposed improvements to UI designs and identified solutions to resolve issues with mobile functionality.",
+        "Applied version control to test, track and update existing code to ensure the web operated on the latest web technologies."
       ]
     }
   ],
@@ -96,17 +104,17 @@
       ]
     }
   ],
-  "awards": [
+  "Training": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
+      "title": "Computer Science",
+      "date": "2019",
+      "awarder": "HarvardX",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
+      "title": "Salesforce Administration",
+      "date": "2022",
+      "awarder": "Salesforce",
       "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
