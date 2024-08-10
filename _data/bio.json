@@ -20,7 +20,6 @@
     { "name": "Cloud Computing" },
     { "name": "Cyber Security" },
     { "name": "E-Commerce" },
-    { "name": "Travelling" },
     { "name": "Cooking" }
   ],
   "skills": [
@@ -86,7 +85,7 @@
     {
       "organization": "National Youth Service Corps",
       "website": "https://www.nysc.gov.ng",
-      "position": "Software Developer",
+      "position": "Corps Member",
       "startDate": "2015-04-16",
       "endDate": "2016-04-16",
       "summary": "Served at the Nigerian Airforce Secondary School as a Mathematics Teacher to Junior & Senior Secondary School teacher",
@@ -107,7 +106,7 @@
       "title": "Salesforce Administration",
       "date": "2022",
       "awarder": "Salesforce",
-      "summary": "Learnt how to administer saleforce as a crm in major orgs."
+      "summary": "Learnt how to administer salesforce as a crm in major orgs."
     }
   ],
   "references": [
